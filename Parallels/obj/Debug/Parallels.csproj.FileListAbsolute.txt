@@ -1,0 +1,12 @@
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.exe.config
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.exe
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.pdb
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.csprojResolveAssemblyReference.cache
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.exe
+C:\Users\Wedson\Google Drive\dev\dotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.pdb
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.exe.config
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.exe
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.pdb
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.exe
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\bin\Debug\Parallels.pdb
+C:\Users\Wedson\OneDrive\Documentos\dev\DotNet\Parallels\Parallels\Parallels\obj\Debug\Parallels.csprojResolveAssemblyReference.cache
